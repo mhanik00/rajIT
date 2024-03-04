@@ -1,0 +1,41 @@
+body {
+  background-color: #fff;
+}
+.logo {
+  height: 50px;
+}
+.navigation {
+  margin-top: 0%;
+  padding-left: 50px;
+  background-color: rgba(0, 8, 8, 0.7);
+}
+.navbar {
+  padding: 0%;
+}
+.nav-link {
+  color: #fcfbfb;
+}
+.log {
+  text-decoration: none;
+  color: #fcfbfb;
+  margin-right: 30px;
+}
+.card-text {
+  color: rgba(9, 73, 211, 0.804);
+}
+.course-btn {
+  border-radius: 20px;
+}
+.card-bodyn {
+  background-color: rgba(87, 48, 48, 0.8);
+}
+.card-textn {
+  color: #fbfcf8;
+}
+
+.imag{
+  height: 100px;
+  border: none;
+
+  border-radius: 100%;
+}
